@@ -38,8 +38,8 @@ while True:
   {Fore.LIGHTCYAN_EX}║{Fore.LIGHTRED_EX} | \____) |{Fore.LIGHTGREEN_EX} _| |_.' /{Fore.LIGHTRED_EX}_| |_.' /{Fore.LIGHTGREEN_EX}\ `.___]  | {Fore.LIGHTCYAN_EX}║
   {Fore.LIGHTCYAN_EX}║{Fore.LIGHTRED_EX}  \______.'{Fore.LIGHTGREEN_EX}|______.'{Fore.LIGHTRED_EX}|______.'{Fore.LIGHTGREEN_EX}  `._____.'  {Fore.LIGHTCYAN_EX}║
   {Fore.LIGHTCYAN_EX}║                                          ║ 
-  {Fore.LIGHTCYAN_EX}║ {Fore.LIGHTGREEN_EX}Dev {Fore.LIGHTRED_EX}zGhosty    {Fore.LIGHTWHITE_EX}-       {Fore.LIGHTRED_EX}zGhosty#4370      {Fore.LIGHTCYAN_EX}║ 
-  {Fore.LIGHTCYAN_EX}║ {Fore.LIGHTGREEN_EX}Dev {Fore.LIGHTRED_EX}Daiki      {Fore.LIGHTWHITE_EX}-       {Fore.LIGHTRED_EX}Daiki#4677        {Fore.LIGHTCYAN_EX}║ 
+  {Fore.LIGHTCYAN_EX}║ {Fore.LIGHTGREEN_EX}Dev {Fore.LIGHTRED_EX}zGhosty / xNullCode    {Fore.LIGHTWHITE_EX}              {Fore.LIGHTCYAN_EX}║ 
+  {Fore.LIGHTCYAN_EX}║ {Fore.LIGHTGREEN_EX}Dev {Fore.LIGHTRED_EX}Daiki      {Fore.LIGHTWHITE_EX}                          {Fore.LIGHTCYAN_EX}║ 
   {Fore.LIGHTCYAN_EX}╚══════════════════════════════════════════╝
   """)
   print(f"  {Fore.LIGHTCYAN_EX}╔════════════════════════════════════════════╗")
